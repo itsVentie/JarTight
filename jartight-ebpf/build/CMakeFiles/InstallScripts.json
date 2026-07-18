@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"E:/Projects/JarTight/jartight-ebpf/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
